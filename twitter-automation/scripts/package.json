@@ -1,0 +1,14 @@
+{
+  "name": "x-playground",
+  "type": "module",
+  "scripts": {
+    "play": "node playground.js",
+    "whoami": "node -e \"import('./playground.js').then(m =u003e m.whoAmI())\"",
+    "timeline": "node -e \"import('./playground.js').then(m =u003e m.readTimeline(5))\"",
+    "post": "node -e \"import('./playground.js').then(m =u003e m.postTweet(process.argv[1]))\""
+  },
+  "dependencies": {
+    "twitter-api-v2": "^1.18.0",
+    "dotenv": "^16.4.0"
+  }
+}

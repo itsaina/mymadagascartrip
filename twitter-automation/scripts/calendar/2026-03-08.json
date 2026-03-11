@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-08",
+  "tweets": [
+    {
+      "time": "08:00",
+      "text": "Teens share 3x more than adults on social apps.\n\nNot because they're addicted.\n\nBecause they still believe their voice matters.\n\nBuild for that belief.",
+      "theme": "Viral Growth",
+      "sent": true
+    },
+    {
+      "time": "10:00",
+      "text": "A Kenyan freelancer just got paid $500 in USDC.\n\nHis bank wanted 5 days + $25 fees.\n\nHis wallet took 3 minutes + $0.50.\n\nWhich future do you think he's choosing?",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "12:00",
+      "text": "130+ countries exploring CBDCs.\n\nOnly 3 have working retail systems.\n\nThe gap between announcement and reality is where most projects die.\n\nBuilding > Announcing",
+      "theme": "CBDC",
+      "sent": false
+    },
+    {
+      "time": "14:00",
+      "text": "Traditional bank: 0.5% interest, 3 days to withdraw.\n\nDeFi protocol: 4% interest, 3 seconds to withdraw.\n\nThe risk? You're your own bank.\n\nThe reward? You're your own bank.",
+      "theme": "DeFi",
+      "sent": false
+    },
+    {
+      "time": "16:00",
+      "text": "Web3's biggest problem isn't scalability.\n\nIt's explaining itself.\n\nIf you need 10 minutes to explain your product, you've already lost 99% of users.\n\nSimplify or die.",
+      "theme": "Web3",
+      "sent": false
+    },
+    {
+      "time": "18:00",
+      "text": "Bitcoin at $60k isn't about Bitcoin.\n\nIt's about the dollar being questioned by a generation that watched their parents' savings evaporate.\n\nMoney is a belief system. Beliefs are shifting.",
+      "theme": "Crypto Macro",
+      "sent": false
+    },
+    {
+      "time": "20:00",
+      "text": "The best products don't explain what they do.\n\nThey make users feel something.\n\nTBH made teens feel seen.\nGas made them feel popular.\n\nEmotion > Function",
+      "theme": "Viral Growth",
+      "sent": false
+    },
+    {
+      "time": "21:00",
+      "text": "$180B in stablecoins.\n\n99% in USDC/USDT.\n\nThe 'decentralized' stablecoins? Most failed or are under $1B.\n\nUsers don't care about ideology. They care about what works.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "22:00",
+      "text": "We killed 14 apps before TBH went viral.\n\nEach taught us one thing about user psychology.\n\nThe 15th combined them all.\n\nFailure is data. Collect it.",
+      "theme": "Product",
+      "sent": false
+    },
+    {
+      "time": "23:00",
+      "text": "China's e-CNY: 260 million wallets.\nNigeria's eNaira: 0.5% adoption.\n\nSame technology. Different execution.\n\nThe 'how' matters more than the 'what'.",
+      "theme": "CBDC",
+      "sent": false
+    }
+  ]
+}

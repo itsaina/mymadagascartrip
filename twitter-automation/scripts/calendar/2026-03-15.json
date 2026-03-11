@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-15",
+  "tweets": [
+    {
+      "time": "08:00",
+      "text": "Viral coefficient > 1 = Exponential growth
+
+If each user brings 1.2 new users:
+• 1 → 1.2 → 1.44 → 1.73 → 2.07...
+• After 20 cycles: 38x growth
+
+Focus on making sharing irresistible.",
+      "theme": "Viral Growth",
+      "sent": false
+    },
+    {
+      "time": "10:00",
+      "text": "Tether's reserve breakdown (latest attestation):
+
+• US Treasuries: ~80%
+• Cash: ~10%
+• Other assets: ~10%
+
+Not fully backed by cash, but by liquid assets. Transparency improving.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "12:00",
+      "text": "CBDC and monetary policy:
+
+Potential tools:
+• Programmable stimulus (expires if not spent)
+• Tiered interest rates (encourage/discourage saving)
+• Direct distribution (bypass banks)
+
+New capabilities, new questions.",
+      "theme": "CBDC",
+      "sent": false
+    },
+    {
+      "time": "14:00",
+      "text": "DEX aggregators explained:
+
+• 1inch, Matcha, Paraswap
+• Route trades across multiple DEXs
+• Find best price, split orders
+• Save users money and time
+
+Middleware matters in DeFi.",
+      "theme": "DeFi",
+      "sent": false
+    },
+    {
+      "time": "16:00",
+      "text": "Soulbound tokens (SBTs):
+
+• Non-transferable NFTs
+• Represent credentials, reputation, memberships
+• Can't be sold or traded
+• Decentralized identity primitive
+
+Vitalik's vision taking shape.",
+      "theme": "Web3",
+      "sent": false
+    },
+    {
+      "time": "18:00",
+      "text": "Crypto correlation with traditional markets:
+
+• 2020-2021: Low correlation (independent asset)
+• 2022-2023: High correlation (risk-on asset)
+• 2024+: Decoupling again?
+
+Maturation changes behavior.",
+      "theme": "Crypto Macro",
+      "sent": false
+    },
+    {
+      "time": "20:00",
+      "text": "Growth hack: The 'invite only' illusion
+
+• Creates exclusivity
+• Makes invites valuable
+• Drives word-of-mouth
+• Actually scales with demand
+
+Gmail, Pinterest, Clubhouse all used this. It still works.",
+      "theme": "Viral Growth",
+      "sent": false
+    },
+    {
+      "time": "21:00",
+      "text": "USDC vs USDT philosophical difference:
+
+USDC: Compliance-first, US-regulated, transparent
+USDT: Market-first, global reach, pragmatic
+
+Both serve different users and use cases.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "22:00",
+      "text": "Retail CBDC vs Wholesale CBDC:
+
+Retail: For everyone (like digital cash)
+Wholesale: For banks only (settlement)
+
+Most countries testing wholesale first. Lower risk, easier implementation.",
+      "theme": "CBDC",
+      "sent": false
+    },
+    {
+      "time": "23:00",
+      "text": "Web3 social media trends:
+
+• Lens Protocol: Social graph on-chain
+• Farcaster: Decentralized Twitter alternative
+• Friend.tech: Social tokens
+
+All experiments in progress. None dominant yet.",
+      "theme": "Web3",
+      "sent": false
+    }
+  ]
+}

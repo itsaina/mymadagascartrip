@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-12",
+  "tweets": [
+    {
+      "time": "08:00",
+      "text": "The 'less is more' product rule:\n\nTBH had exactly one feature: Anonymous polls.\nGas had exactly one feature: Anonymous compliments.\n\nThey didn't add features. They perfected one.\n\nFocus beats breadth.",
+      "theme": "Viral Growth",
+      "sent": false
+    },
+    {
+      "time": "10:00",
+      "text": "Vietnam: Top 3 globally for crypto adoption.\n\nWhy?\n• Remittance corridor to US\n• Limited banking access\n• High mobile penetration\n• USD scarcity\n\nStablecoins solve real problems.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "12:00",
+      "text": "CBDC offline payments:\n\n• Needed: Rural areas, disasters\n• Challenge: Double-spending without connectivity\n• Solutions: Hardware wallets, local consensus\n• Status: Experimental, not deployed\n\nHard problem. Important for inclusion.",
+      "theme": "CBDC",
+      "sent": false
+    },
+    {
+      "time": "14:00",
+      "text": "Uniswap v3 innovation:\n\n• Concentrated liquidity (efficiency)\n• Multiple fee tiers (flexibility)\n• NFT positions (capital efficiency)\n\nResult: Deeper liquidity, lower slippage.\n\nInnovation compounds.",
+      "theme": "DeFi",
+      "sent": false
+    },
+    {
+      "time": "16:00",
+      "text": "Web3 gaming state:\n\n• Promise: Own your items, trade freely\n• Reality: Most games aren't fun\n• Reality: Economies collapse\n• Reality: Speculation > gameplay\n\nFun first. Ownership second. Order matters.",
+      "theme": "Web3",
+      "sent": false
+    },
+    {
+      "time": "18:00",
+      "text": "Hash rate = security budget.\n\nBitcoin: 500+ EH/s (all-time high)\nEthereum (post-merge): Staked ETH = security\n\nHigher hash rate = More expensive to attack.\nSecurity isn't free.",
+      "theme": "Crypto Macro",
+      "sent": false
+    },
+    {
+      "time": "20:00",
+      "text": "Why teens are the best growth channel:\n\n• Dense networks (schools)\n• High sharing behavior\n• Identity formation (exploring who they are)\n• Time rich, money poor (free apps win)\n\nBuild for teens, scale to adults.",
+      "theme": "Viral Growth",
+      "sent": false
+    },
+    {
+      "time": "21:00",
+      "text": "Stablecoin regulation incoming:\n\n• EU: MiCA framework (2024)\n• US: Draft bills circulating\n• Focus: Reserves, audits, licensing\n\nThe wild west phase is ending. Compliance becomes competitive advantage.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "22:00",
+      "text": "Product lesson: Constraints breed creativity.\n\nTBH was built by 4 people in 3 months.\n\nLimited resources forced hard choices.\nHard choices created focus.\nFocus created success.\n\nAbundance is the enemy of clarity.",
+      "theme": "Product",
+      "sent": false
+    },
+    {
+      "time": "23:00",
+      "text": "Sweden's e-krona:\n\n• Testing since 2020\n• Approach: Cautious, research-heavy\n• Finding: Cash usage declining\n• Decision: Not launching yet\n\nSometimes not launching is the right decision.",
+      "theme": "CBDC",
+      "sent": false
+    }
+  ]
+}

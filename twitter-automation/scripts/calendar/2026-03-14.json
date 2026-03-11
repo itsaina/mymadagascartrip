@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-14",
+  "tweets": [
+    {
+      "time": "08:00",
+      "text": "Viral growth mechanics:
+
+• Network effects: Each user brings more users
+• Retention loops: Keep them coming back
+• Social proof: FOMO drives adoption
+• Low friction: Remove every barrier
+
+Growth is engineered, not accidental.",
+      "theme": "Viral Growth",
+      "sent": false
+    },
+    {
+      "time": "10:00",
+      "text": "Stablecoin market leaders:
+
+• USDT: $100B+ market cap, most liquid
+• USDC: $35B+, regulated, US-based
+• DAI: $5B+, decentralized, over-collateralized
+
+Different tradeoffs for different users.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "12:00",
+      "text": "Digital Yuan (e-CNY) progress:
+
+• 260M+ wallets created
+• $250B+ in transactions
+• 25+ cities in pilot
+• Winter Olympics showcase
+
+China is moving fast. Others are watching.",
+      "theme": "CBDC",
+      "sent": false
+    },
+    {
+      "time": "14:00",
+      "text": "DeFi yield farming explained:
+
+1. Provide liquidity to a pool
+2. Earn trading fees (0.05-1%)
+3. Receive protocol tokens as rewards
+4. Compound or stake those tokens
+
+APY varies wildly. Risk adjusts accordingly.",
+      "theme": "DeFi",
+      "sent": false
+    },
+    {
+      "time": "16:00",
+      "text": "Web3 identity evolution:
+
+Web2: Email + Password (company owns it)
+Web3: Wallet + Keys (you own it)
+
+Your wallet is your identity. Portable across apps. No permission needed.",
+      "theme": "Web3",
+      "sent": false
+    },
+    {
+      "time": "18:00",
+      "text": "Bitcoin halving 2024 impact:
+
+• Block reward: 6.25 → 3.125 BTC
+• Supply growth cut in half
+• Historical: Bull markets follow
+• Miners: Must become more efficient
+
+Scarcity mechanics in action.",
+      "theme": "Crypto Macro",
+      "sent": false
+    },
+    {
+      "time": "20:00",
+      "text": "The 'magic moment' principle:
+
+Users who experience core value within first session retain 10x better.
+
+For TBH: First anonymous poll received.
+For Gas: First compliment received.
+
+Design for immediate gratification.",
+      "theme": "Viral Growth",
+      "sent": false
+    },
+    {
+      "time": "21:00",
+      "text": "Stablecoins in emerging markets:
+
+• Argentina: 30%+ inflation → USD stablecoins save purchasing power
+• Nigeria: Currency controls → Stablecoins enable commerce
+• Turkey: Lira volatility → Crypto adoption rising
+
+Real utility, real pain relief.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "22:00",
+      "text": "CBDC privacy spectrum:
+
+• Cash: Fully private (no record)
+• CBDC: Central bank sees everything
+• Hybrid: Tiered privacy (small = private, large = reported)
+
+The privacy-efficiency tradeoff is real.",
+      "theme": "CBDC",
+      "sent": false
+    },
+    {
+      "time": "23:00",
+      "text": "DeFi vs TradFi lending comparison:
+
+DeFi: Collateralized, instant, 24/7, transparent rates
+TradFi: Credit-based, slow, business hours, opaque rates
+
+Different models for different needs. Both will coexist.",
+      "theme": "DeFi",
+      "sent": false
+    }
+  ]
+}

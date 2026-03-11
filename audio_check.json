@@ -1,0 +1,1 @@
+{"text": " J'ai demand\u00e9 la capitale", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 3.0, "text": " J'ai demand\u00e9 la capitale", "tokens": [50364, 508, 6, 1301, 48468, 635, 33807, 1220, 50514], "temperature": 0.0, "avg_logprob": -0.41507368087768554, "compression_ratio": 0.7575757575757576, "no_speech_prob": 0.023519134148955345}], "language": "fr"}

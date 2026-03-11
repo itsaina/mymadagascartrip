@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-11",
+  "tweets": [
+    {
+      "time": "08:00",
+      "text": "The 'sticky' app formula:\n\n1. Daily use case\n2. Network effects (more friends = more value)\n3. Variable rewards (unpredictable dopamine)\n4. Social obligation (FOMO if you don't check)\n\nTBH/Gas had all 4.",
+      "theme": "Viral Growth",
+      "sent": true
+    },
+    {
+      "time": "10:00",
+      "text": "Philippines: $38B remittances annually (9% of GDP).\n\nAverage cost: 5.8%.\n\nStablecoin adoption growing 40% YoY.\n\nWhen your economy depends on remittances, you optimize for what works.",
+      "theme": "Stablecoins",
+      "sent": true
+    },
+    {
+      "time": "12:00",
+      "text": "CBDC retail vs wholesale:\n\n• Wholesale: Banks only (faster settlement)\n• Retail: Everyone (complex, political)\n\nMost countries doing wholesale first.\nRetail CBDCs are hard. Really hard.",
+      "theme": "CBDC",
+      "sent": true
+    },
+    {
+      "time": "14:00",
+      "text": "Smart contracts are 'trustless' - but:\n\n• Code can have bugs\n• Oracles can be manipulated\n• Admin keys can be compromised\n\nTrustless doesn't mean riskless. It means different risks.",
+      "theme": "DeFi",
+      "sent": true
+    },
+    {
+      "time": "16:00",
+      "text": "DAOs in practice:\n\n• Promise: Decentralized governance\n• Reality: Low voter turnout\n• Reality: Whales dominate votes\n• Reality: Most proposals technical/boring\n\nGovernance is hard. Decentralized governance is harder.",
+      "theme": "Web3",
+      "sent": true
+    },
+    {
+      "time": "18:00",
+      "text": "Bitcoin halving April 2024:\n\n• Block reward: 6.25 → 3.125 BTC\n• New supply: ~900 → ~450 BTC/day\n• Historical: Price often rises post-halving\n• Mechanism: Reduced selling pressure\n\nSupply mechanics matter.",
+      "theme": "Crypto Macro",
+      "sent": true
+    },
+    {
+      "time": "20:00",
+      "text": "Compliment apps keep getting built.\nMost fail.\n\nWhy? They copy TBH's features but not its timing.\n\nTBH 2017: Instagram fatigue, no competition\nTBH 2024: TikTok dominates, market saturated\n\nContext is everything.",
+      "theme": "Viral Growth",
+      "sent": true
+    },
+    {
+      "time": "21:00",
+      "text": "Turkey: 65% inflation.\n\nStablecoin volume on local exchanges: Record highs.\n\nWhen your lira loses half its value in a year, you don't need to understand crypto. You just need to survive.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "22:00",
+      "text": "Building viral: The invitation matters more than the product.\n\nBad invite: 'Download my app'\nGood invite: 'Someone said something nice about you'\n\nTBH's invites had 80% open rate. Context > Content.",
+      "theme": "Product",
+      "sent": false
+    },
+    {
+      "time": "23:00",
+      "text": "Brazil's Drex (CBDC):\n\n• Launch: 2024 pilot\n• Unique feature: Programmable money\n• Use case: Conditional payments\n• Innovation: Smart contracts on CBDC\n\nPushing boundaries beyond simple payments.",
+      "theme": "CBDC",
+      "sent": false
+    }
+  ]
+}

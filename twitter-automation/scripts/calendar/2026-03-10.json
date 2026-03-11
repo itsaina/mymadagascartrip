@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-10",
+  "tweets": [
+    {
+      "time": "08:00",
+      "text": "Timing is everything:\n\nTBH launched when teens were tired of Instagram perfection.\nGas launched when teens wanted positivity after TikTok toxicity.\n\nSame product, different moments. Read the room.",
+      "theme": "Viral Growth",
+      "sent": false
+    },
+    {
+      "time": "10:00",
+      "text": "$700B annual remittances.\n\n$44B lost to fees every year.\n\nThat's the size of the market stablecoins are eating. Not theoretical. Already happening.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "12:00",
+      "text": "CBDC privacy paradox:\n\n• Users want: Anonymous cash-like payments\n• Governments want: Traceable for AML/Tax\n• Current solution: Surveillance with limits\n• Result: Neither side fully happy\n\nThe tension is the feature, not the bug.",
+      "theme": "CBDC",
+      "sent": false
+    },
+    {
+      "time": "14:00",
+      "text": "DeFi lending rates vs TradFi:\n\n• US 10Y Treasury: ~4.2%\n• Aave USDC: ~3-8% (variable)\n• Compound: Similar range\n\nThe spread isn't magic. It's risk premium for smart contract exposure.",
+      "theme": "DeFi",
+      "sent": false
+    },
+    {
+      "time": "16:00",
+      "text": "Soulbound tokens (SBTs) - the idea:\n\n• Non-transferable NFTs\n• Represent reputation/credentials\n• Can't be sold, only earned\n\nThe reality: Still theoretical. No major adoption yet.\n\nGood concept, needs time.",
+      "theme": "Web3",
+      "sent": false
+    },
+    {
+      "time": "18:00",
+      "text": "Bitcoin ETF inflows: $10B+ in first month.\n\nThis isn't retail FOMO. This is institutions finally getting permission to allocate.\n\nThe wall of money has a process. It's just starting.",
+      "theme": "Crypto Macro",
+      "sent": false
+    },
+    {
+      "time": "20:00",
+      "text": "Why Gas worked when other compliment apps failed:\n\n1. Waited 2 years (post-COVID timing)\n2. Focused on high schools (dense networks)\n3. Limited daily polls (scarcity = engagement)\n4. No anonymous messaging (safer)\n\nExecution details matter.",
+      "theme": "Viral Growth",
+      "sent": true
+    },
+    {
+      "time": "21:00",
+      "text": "Stablecoins in cross-border trade:\n\n• Importer in Nigeria\n• Exporter in China\n• Banks: 5-7 days, high fees\n• USDT: 10 minutes, <1%\n\nNot just remittances. B2B trade is next.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "22:00",
+      "text": "Product lesson from 14 failed apps:\n\nUsers don't want your app.\n\nThey want the feeling your app gives them.\n\nTBH = feeling seen\nGas = feeling popular\n\nBuild the feeling, not the features.",
+      "theme": "Product",
+      "sent": true
+    },
+    {
+      "time": "23:00",
+      "text": "India's digital rupee:\n\n• 1M+ retail transactions daily\n• Main use: merchant payments\n• Integration: UPI (existing rails)\n• Strategy: Gradual, not revolutionary\n\nSometimes riding existing rails beats building new ones.",
+      "theme": "CBDC",
+      "sent": false
+    }
+  ]
+}

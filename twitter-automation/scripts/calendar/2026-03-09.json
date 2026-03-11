@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-09",
+  "tweets": [
+    {
+      "time": "08:00",
+      "text": "The viral loop in 4 steps:\n\n1. User gets value\n2. User shares (motivation: status/connection)\n3. Friend sees + wants same\n4. Friend joins\n\nMost apps fail at step 2. They ask for shares without giving a reason.",
+      "theme": "Viral Growth",
+      "sent": false
+    },
+    {
+      "time": "10:00",
+      "text": "Western Union: 500,000 agent locations.\n\nStablecoins: Any smartphone.\n\nThe 500K locations were an advantage. Now they're legacy infrastructure.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "12:00",
+      "text": "Digital Euro update:\n\n• Decision: October 2023 (will proceed)\n• Preparation phase: 2 years\n• Pilot phase: 3 years\n• Possible launch: 2028-2030\n\n7+ years from decision to reality.",
+      "theme": "CBDC",
+      "sent": false
+    },
+    {
+      "time": "14:00",
+      "text": "Yield farming isn't free money.\n\nYou're being paid to:\n• Provide liquidity\n• Take smart contract risk\n• Impermanent loss exposure\n\nUnderstand the trade before taking it.",
+      "theme": "DeFi",
+      "sent": true
+    },
+    {
+      "time": "16:00",
+      "text": "Web3 onboarding in 2024:\n\n1. Download wallet\n2. Write down seed phrase\n3. Buy ETH from exchange\n4. Wait for KYC\n5. Bridge to L2\n6. Pay gas fees\n\n7 steps to use an app. This is the UX problem.",
+      "theme": "Web3",
+      "sent": false
+    },
+    {
+      "time": "18:00",
+      "text": "El Salvador 3 years later:\n\n• Bitcoin not widely used daily\n• Tourism up 30% (crypto tourism)\n• IMF still unhappy\n• President approval: 90%+\n\nAdoption is complex. Political success ≠ Economic success.",
+      "theme": "Crypto Macro",
+      "sent": false
+    },
+    {
+      "time": "20:00",
+      "text": "Gas app didn't succeed because of features.\n\nIt succeeded because it made teens feel popular without the risk of public rejection.\n\nPsychological safety > Cool features",
+      "theme": "Viral Growth",
+      "sent": true
+    },
+    {
+      "time": "21:00",
+      "text": "Argentina: 211% inflation (2023).\n\nStablecoin adoption among highest globally.\n\nWhen your currency loses value daily, 'volatile' crypto starts looking stable.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "22:00",
+      "text": "Why TBH spread to 8 states in 9 weeks:\n\n1. Anonymous (no social risk)\n2. Positive only (compliments, not bullying)\n3. In-app unlock (gamification)\n4. School-based (natural network effects)\n\nDesign for psychology, not just features.",
+      "theme": "Product",
+      "sent": false
+    },
+    {
+      "time": "23:00",
+      "text": "JAM-DEX (Jamaica CBDC):\n\n• First CBDC in Caribbean\n• 200K wallets in first year\n• Main use: small merchant payments\n• Key insight: started with unbanked, not replacing cash\n\nSmart targeting matters.",
+      "theme": "CBDC",
+      "sent": false
+    }
+  ]
+}

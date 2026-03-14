@@ -1,0 +1,9 @@
+node_modules
+.cache
+.git
+.pythonlibs
+.cache
+*.log
+.DS_Store
+.vscode
+.idea

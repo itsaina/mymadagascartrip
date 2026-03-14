@@ -15,13 +15,13 @@
     },
     {
       "time": "12:00",
-      "text": "Digital Euro update:\n\n• Decision: October 2023 (will proceed)\n• Preparation phase: 2 years\n• Pilot phase: 3 years\n• Possible launch: 2028-2030\n\n7+ years from decision to reality.",
+      "text": "Digital Euro update:\n\n- Decision: October 2023 (will proceed)\n- Preparation phase: 2 years\n- Pilot phase: 3 years\n- Possible launch: 2028-2030\n\n7+ years from decision to reality.",
       "theme": "CBDC",
       "sent": false
     },
     {
       "time": "14:00",
-      "text": "Yield farming isn't free money.\n\nYou're being paid to:\n• Provide liquidity\n• Take smart contract risk\n• Impermanent loss exposure\n\nUnderstand the trade before taking it.",
+      "text": "Yield farming isn't free money.\n\nYou're being paid to:\n- Provide liquidity\n- Take smart contract risk\n- Impermanent loss exposure\n\nUnderstand the trade before taking it.",
       "theme": "DeFi",
       "sent": true
     },
@@ -33,7 +33,7 @@
     },
     {
       "time": "18:00",
-      "text": "El Salvador 3 years later:\n\n• Bitcoin not widely used daily\n• Tourism up 30% (crypto tourism)\n• IMF still unhappy\n• President approval: 90%+\n\nAdoption is complex. Political success ≠ Economic success.",
+      "text": "El Salvador 3 years later:\n\n- Bitcoin not widely used daily\n- Tourism up 30% (crypto tourism)\n- IMF still unhappy\n- President approval: 90%+\n\nAdoption is complex. Political success ≠ Economic success.",
       "theme": "Crypto Macro",
       "sent": false
     },
@@ -57,7 +57,7 @@
     },
     {
       "time": "23:00",
-      "text": "JAM-DEX (Jamaica CBDC):\n\n• First CBDC in Caribbean\n• 200K wallets in first year\n• Main use: small merchant payments\n• Key insight: started with unbanked, not replacing cash\n\nSmart targeting matters.",
+      "text": "JAM-DEX (Jamaica CBDC):\n\n- First CBDC in Caribbean\n- 200K wallets in first year\n- Main use: small merchant payments\n- Key insight: started with unbanked, not replacing cash\n\nSmart targeting matters.",
       "theme": "CBDC",
       "sent": false
     }

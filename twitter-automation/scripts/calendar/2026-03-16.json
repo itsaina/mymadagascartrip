@@ -5,10 +5,10 @@
       "time": "08:00",
       "text": "The psychology of viral products:
 
-• Status: 'I'm in the know'
-• Belonging: 'I'm part of this'
-• Curiosity: 'What's everyone talking about?'
-• FOMO: 'I might miss out'
+- Status: 'I'm in the know'
+- Belonging: 'I'm part of this'
+- Curiosity: 'What's everyone talking about?'
+- FOMO: 'I might miss out'
 
 Design for emotions, not features.",
       "theme": "Viral Growth",
@@ -18,9 +18,9 @@ Design for emotions, not features.",
       "time": "10:00",
       "text": "Algorithmic stablecoins: What went wrong?
 
-• UST/Terra: Death spiral, $40B wiped
-• Basis Cash: Failed to maintain peg
-• Fei Protocol: Complex, underperformed
+- UST/Terra: Death spiral, $40B wiped
+- Basis Cash: Failed to maintain peg
+- Fei Protocol: Complex, underperformed
 
 Pure algorithmic = High risk. Collateral matters.",
       "theme": "Stablecoins",
@@ -30,10 +30,10 @@ Pure algorithmic = High risk. Collateral matters.",
       "time": "12:00",
       "text": "Eurozone digital euro status:
 
-• Investigation phase: 2021-2023 ✓
-• Preparation phase: 2023-2026 (current)
-• Decision: 2026 (?)
-• Potential launch: 2028+
+- Investigation phase: 2021-2023 ✓
+- Preparation phase: 2023-2026 (current)
+- Decision: 2026 (?)
+- Potential launch: 2028+
 
 Moving carefully. Big implications for EU economy.",
       "theme": "CBDC",
@@ -43,10 +43,10 @@ Moving carefully. Big implications for EU economy.",
       "time": "14:00",
       "text": "Flash loans in DeFi:
 
-• Borrow millions without collateral
-• Must repay in same transaction
-• Use cases: Arbitrage, liquidations, refinancing
-• Risk: Smart contract bugs
+- Borrow millions without collateral
+- Must repay in same transaction
+- Use cases: Arbitrage, liquidations, refinancing
+- Risk: Smart contract bugs
 
 Atomic finance. Powerful and dangerous.",
       "theme": "DeFi",
@@ -69,10 +69,10 @@ Understanding the stack matters.",
       "time": "18:00",
       "text": "Institutional crypto adoption indicators:
 
-• BlackRock Bitcoin ETF: $10B+ inflows
-• MicroStrategy: 200K+ BTC held
-• Fidelity, Schwab offering crypto
-• Corporations adding BTC to treasury
+- BlackRock Bitcoin ETF: $10B+ inflows
+- MicroStrategy: 200K+ BTC held
+- Fidelity, Schwab offering crypto
+- Corporations adding BTC to treasury
 
 The institutional era is here.",
       "theme": "Crypto Macro",
@@ -82,10 +82,10 @@ The institutional era is here.",
       "time": "20:00",
       "text": "Product-market fit signals:
 
-• Users are pulling the product from you
-• Retention curves flatten
-• Organic growth exceeds paid
-• Users recruit other users
+- Users are pulling the product from you
+- Retention curves flatten
+- Organic growth exceeds paid
+- Users recruit other users
 
 Don't scale until you feel the pull.",
       "theme": "Viral Growth",
@@ -106,10 +106,10 @@ The value proposition is obvious. Adoption follows utility.",
       "time": "22:00",
       "text": "CBDC interoperability challenges:
 
-• Different tech stacks
-• Regulatory divergence
-• Cross-border settlement
-• FX conversion
+- Different tech stacks
+- Regulatory divergence
+- Cross-border settlement
+- FX conversion
 
 Project mBridge (BIS): Testing multi-currency CBDC platform.",
       "theme": "CBDC",
@@ -119,11 +119,11 @@ Project mBridge (BIS): Testing multi-currency CBDC platform.",
       "time": "23:00",
       "text": "Crypto cycles: Where are we?
 
-• 2011: First bubble
-• 2013-2014: Mt. Gox era
-• 2017-2018: ICO boom
-• 2021-2022: DeFi/NFT summer
-• 2024-2025: ETF/Institutional era
+- 2011: First bubble
+- 2013-2014: Mt. Gox era
+- 2017-2018: ICO boom
+- 2021-2022: DeFi/NFT summer
+- 2024-2025: ETF/Institutional era
 
 History rhymes. Adapt accordingly.",
       "theme": "Crypto Macro",

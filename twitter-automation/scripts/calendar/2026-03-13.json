@@ -5,61 +5,61 @@
       "time": "08:00",
       "text": "The hook formula:\n\n[Unexpected fact] + [Simple explanation] + [Relatable takeaway]\n\nExample:\n'Teens share 3x more. Not addiction. They believe their voice matters.'\n\nMake people feel smart for reading.",
       "theme": "Viral Growth",
-      "sent": false
+      "sent": true
     },
     {
       "time": "10:00",
-      "text": "African fintech revolution:\n\n• M-Pesa: 50M+ users\n• Flutterwave: $2B+ processed\n• Chipper Cash: 5M users\n\nAll built because traditional banking failed the masses.\nNecessity breeds innovation.",
+      "text": "African fintech revolution:\n\n- M-Pesa: 50M+ users\n- Flutterwave: $2B+ processed\n- Chipper Cash: 5M users\n\nAll built because traditional banking failed the masses.\nNecessity breeds innovation.",
       "theme": "Stablecoins",
-      "sent": false
+      "sent": true
     },
     {
       "time": "12:00",
-      "text": "CBDC design choices:\n\n• Account vs Token-based\n• Direct vs Intermediated\n• Interest-bearing vs Not\n• Programmable vs Neutral\n\nEach choice has tradeoffs. No perfect design.",
+      "text": "CBDC design choices:\n\n- Account vs Token-based\n- Direct vs Intermediated\n- Interest-bearing vs Not\n- Programmable vs Neutral\n\nEach choice has tradeoffs. No perfect design.",
       "theme": "CBDC",
-      "sent": false
+      "sent": true
     },
     {
       "time": "14:00",
-      "text": "DeFi composability:\n\n• Money legos: Protocols plug into each other\n• Example: Deposit → Lend → Borrow → Farm\n• Risk: Cascade failures\n• Reward: Innovation velocity\n\nOpen systems move faster.",
+      "text": "DeFi composability:\n\n- Money legos: Protocols plug into each other\n- Example: Deposit → Lend → Borrow → Farm\n- Risk: Cascade failures\n- Reward: Innovation velocity\n\nOpen systems move faster.",
       "theme": "DeFi",
-      "sent": false
+      "sent": true
     },
     {
       "time": "16:00",
       "text": "Why Africa will lead Web3 adoption:\n\n1. Young, mobile-first population\n2. Weak legacy banking\n3. Currency instability\n4. Remittance dependency\n5. Entrepreneurial culture\n\nLeapfrogging Web2 entirely.",
       "theme": "Web3",
-      "sent": false
+      "sent": true
     },
     {
       "time": "18:00",
-      "text": "Crypto vs Sanctions:\n\n• Russia: Using crypto to bypass restrictions\n• North Korea: $1B+ stolen via hacks\n• Iran: Mining as revenue source\n\nRegulators caught between innovation and control.",
+      "text": "Crypto vs Sanctions:\n\n- Russia: Using crypto to bypass restrictions\n- North Korea: $1B+ stolen via hacks\n- Iran: Mining as revenue source\n\nRegulators caught between innovation and control.",
       "theme": "Crypto Macro",
-      "sent": false
+      "sent": true
     },
     {
       "time": "20:00",
       "text": "FOMO design principles:\n\n1. Scarcity (limited spots/features)\n2. Social proof (X people joined)\n3. Time pressure (24hr window)\n4. Exclusivity (invite-only)\n\nGas used all 4. Perfect execution.",
       "theme": "Viral Growth",
-      "sent": false
+      "sent": true
     },
     {
       "time": "21:00",
-      "text": "Stablecoin use cases beyond trading:\n\n• Payroll (global teams)\n• Savings (inflation hedging)\n• Payments (B2B, P2P)\n• Credit (collateral)\n• Remittances (obvious one)\n\nReal utility exists. It's just quieter than speculation.",
+      "text": "Stablecoin use cases beyond trading:\n\n- Payroll (global teams)\n- Savings (inflation hedging)\n- Payments (B2B, P2P)\n- Credit (collateral)\n- Remittances (obvious one)\n\nReal utility exists. It's just quieter than speculation.",
       "theme": "Stablecoins",
-      "sent": false
+      "sent": true
     },
     {
       "time": "22:00",
       "text": "The difference between good and great products:\n\nGood products solve problems.\nGreat products create feelings.\n\nTBH didn't solve a problem.\nIt created moments of joy.\n\nJoy > Utility for virality.",
       "theme": "Product",
-      "sent": false
+      "sent": true
     },
     {
       "time": "23:00",
-      "text": "UAE digital dirham:\n\n• Strategy: Crypto hub positioning\n• Approach: Crypto-friendly regulation\n• CBDC: Wholesale focus first\n• Goal: Bridge TradFi and crypto\n\nRegulatory arbitrage as strategy.",
+      "text": "UAE digital dirham:\n\n- Strategy: Crypto hub positioning\n- Approach: Crypto-friendly regulation\n- CBDC: Wholesale focus first\n- Goal: Bridge TradFi and crypto\n\nRegulatory arbitrage as strategy.",
       "theme": "CBDC",
-      "sent": false
+      "sent": true
     }
   ]
 }

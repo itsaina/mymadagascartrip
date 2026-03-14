@@ -1,0 +1,718 @@
+# Vibe Coding Projects Database
+# Format: JSON-like structured data for easy parsing
+# Last updated: 2026-03-14
+# Update frequency: Weekly
+
+{
+  "metadata": {
+    "total_projects": 20,
+    "last_updated": "2026-03-14",
+    "update_frequency": "weekly",
+    "sources": ["Indie Hackers", "Lovable blog", "Twitter/X", "Case studies", "YouTube", "Podcasts"]
+  },
+  
+  "projects": [
+    {
+      "id": 1,
+      "name": "Stoppr",
+      "tagline": "App anti-sucre pour femmes",
+      "founder": "David Attias",
+      "twitter_handle": "@david_attisaas",
+      "location": "France",
+      "background": "Quant trader (8 ans, pas de code)",
+      "problem_solved": "Aider les femmes françaises (13-25 ans) à arrêter le sucre",
+      "revenue": {
+        "mrr": "$12,000",
+        "arr": "$144,000",
+        "profit_margin": "35%"
+      },
+      "pricing": {
+        "model": "Freemium + Subscription",
+        "weekly": "~€2-3",
+        "monthly": "~€8-10",
+        "yearly": "~€50-60"
+      },
+      "metrics": {
+        "downloads": 60000,
+        "paying_customers": 900,
+        "time_to_launch": "1 mois",
+        "time_to_12k": "5 mois"
+      },
+      "tech_stack": {
+        "ai_tool": "Cursor AI",
+        "cost_per_month": "$20",
+        "backend": "Non spécifié",
+        "frontend": "Non spécifié"
+      },
+      "strategy": "Clone de l'app 'Quitter' ($200K/mois) avec changement de niche géo/démo",
+      "status": "Active",
+      "source": "Case study Stoppr",
+      "verified": true,
+      "posted_on_twitter": {
+        "date": "2026-03-14",
+        "tweet_url": "https://twitter.com/itsaina207/status/2032763377064522060",
+        "thread_number": 2
+      }
+    },
+    {
+      "id": 2,
+      "name": "Plinq",
+      "tagline": "Women's safety app - background checks",
+      "founder": "Sabrine Matos",
+      "twitter_handle": null,
+      "location": "Brazil",
+      "background": "Growth marketer, no engineering degree",
+      "problem_solved": "Accès aux données criminelles publiques pour la sécurité des femmes au Brésil",
+      "revenue": {
+        "mrr": "$38,000",
+        "arr": "$456,000",
+        "funding_raised": "$500,000"
+      },
+      "pricing": {
+        "model": "Freemium",
+        "details": "Subscriptions + background check fees"
+      },
+      "metrics": {
+        "users": 25000,
+        "lives_saved": "200+ potentially violent situations prevented",
+        "time_to_build": "45 days",
+        "time_to_456k": "45 days"
+      },
+      "tech_stack": {
+        "ai_tool": "Lovable",
+        "frontend": "Lovable",
+        "backend": "Lovable Cloud",
+        "desktop_app": "Lovable"
+      },
+      "strategy": "Social impact + no-code tools for non-technical founder",
+      "status": "Active + Funded",
+      "source": "Lovable blog",
+      "verified": true,
+      "posted_on_twitter": {
+        "date": "2026-03-14",
+        "tweet_url": "https://twitter.com/itsaina207/status/2032763387076342019",
+        "thread_number": 3
+      }
+    },
+    {
+      "id": 3,
+      "name": "Aura",
+      "tagline": "AI landing page builder - 'Cursor for design'",
+      "founder": "Meng To",
+      "twitter_handle": null,
+      "location": "Non spécifié",
+      "background": "Designer, founder of Design+Code",
+      "problem_solved": "Création de landing pages sans compétences design",
+      "revenue": {
+        "mrr": "$15,000",
+        "arr": "$180,000"
+      },
+      "pricing": {
+        "model": "SaaS Subscription",
+        "details": "Monthly plans for AI design generation"
+      },
+      "metrics": {
+        "users": 21700,
+        "time_to_15k": "1 mois"
+      },
+      "tech_stack": {
+        "ai_tool": "Claude 4",
+        "features": ["HTML export", "Figma export"]
+      },
+      "strategy": "Replace Figma with AI-powered design tool",
+      "status": "Active",
+      "source": "Aura.build",
+      "verified": true,
+      "posted_on_twitter": {
+        "date": "2026-03-14",
+        "tweet_url": "https://twitter.com/itsaina207/status/2032763396995846404",
+        "thread_number": 4
+      }
+    },
+    {
+      "id": 4,
+      "name": "TrendFeed",
+      "tagline": "AI content discovery for creators",
+      "founder": "Sebastian Volkis",
+      "twitter_handle": "@sebastianvolkis",
+      "location": "London, UK",
+      "background": "Physics & astrophysics grad, freelance media buyer",
+      "problem_solved": "Trouver les sujets viraux et générer du contenu short-form",
+      "revenue": {
+        "mrr": "$10,000",
+        "arr": "$120,000",
+        "first_month": "$12,000"
+      },
+      "pricing": {
+        "model": "SaaS Subscription",
+        "launch_price": "£249 lifetime (22 customers)",
+        "launch_revenue": "£5.5K day 1"
+      },
+      "metrics": {
+        "time_to_build": "4 days",
+        "time_to_10k": "1 mois",
+        "customers_launch": 22
+      },
+      "tech_stack": {
+        "ai_tools": ["Claude", "GPT-4"],
+        "frontend": "Next.js + React + ShadCN",
+        "backend": "Supabase",
+        "deployment": "Vercel",
+        "auth": "Clerk",
+        "payments": "Whop"
+      },
+      "strategy": "Webinar-based launch to controlled audience",
+      "status": "Active",
+      "source": "Indie Hackers interview",
+      "verified": true,
+      "posted_on_twitter": {
+        "date": "2026-03-14",
+        "tweet_url": "https://twitter.com/itsaina207/status/2032763407016083863",
+        "thread_number": 5
+      }
+    },
+    {
+      "id": 5,
+      "name": "Flight Simulator MMO",
+      "tagline": "Real-time flight simulator in browser",
+      "founder": "Pieter Levels",
+      "twitter_handle": "@levelsio",
+      "location": "Digital nomad (40+ countries)",
+      "background": "Indie hacker, Nomad List founder",
+      "problem_solved": "Jeu multijoueur de simulation de vol accessible",
+      "revenue": {
+        "monthly_ads": "$87,000",
+        "arr_ads": "$1,044,000",
+        "total_arr": "$3,000,000+ (all projects)"
+      },
+      "pricing": {
+        "model": "Ad-supported + In-game purchases"
+      },
+      "metrics": {
+        "users_17_days": 320000,
+        "time_to_build": "3 hours",
+        "players_peak": "~320K"
+      },
+      "tech_stack": {
+        "ai_tools": ["Cursor", "Grok-3"],
+        "language": "JavaScript",
+        "platform": "Browser MMO"
+      },
+      "strategy": "Viral game + in-game ad spots",
+      "status": "Active",
+      "source": "Pieter Levels Twitter",
+      "verified": true,
+      "posted_on_twitter": {
+        "date": "2026-03-14",
+        "tweet_url": "https://twitter.com/itsaina207/status/2032763416927158401",
+        "thread_number": 6
+      }
+    },
+    {
+      "id": 6,
+      "name": "Sarah's Scheduler",
+      "tagline": "Social media scheduling tool",
+      "founder": "Sarah Chen",
+      "twitter_handle": null,
+      "location": "Non spécifié",
+      "background": "Former marketing manager",
+      "problem_solved": "Automatisation des posts social media avec génération de légendes AI",
+      "revenue": {
+        "mrr": "$15,247",
+        "arr": "$182,964"
+      },
+      "pricing": {
+        "model": "SaaS",
+        "price": "$29/month"
+      },
+      "metrics": {
+        "customers": 525,
+        "time_to_15k": "6 mois"
+      },
+      "tech_stack": {
+        "ai_tool": "Cursor",
+        "features": ["AI caption generation", "Scheduling"]
+      },
+      "strategy": "Solved her own problem as a marketer",
+      "status": "Active",
+      "source": "Vibe Code case study",
+      "verified": true,
+      "posted_on_twitter": {
+        "date": "2026-03-14",
+        "tweet_url": "https://twitter.com/itsaina207/status/2032763426813128933",
+        "thread_number": 7
+      }
+    },
+    {
+      "id": 7,
+      "name": "Marcus Portfolio",
+      "tagline": "3 micro-SaaS design tools",
+      "founder": "Marcus Rodriguez",
+      "twitter_handle": null,
+      "location": "Non spécifié",
+      "background": "Full-time designer",
+      "problem_solved": "Outils de design pour designers (palettes, mockups, fonts)",
+      "revenue": {
+        "mrr": "$8,400",
+        "arr": "$100,800",
+        "breakdown": {
+          "color_palette_generator": "$4,180",
+          "logo_mockup_tool": "$2,755",
+          "font_pairing_assistant": "$1,470"
+        }
+      },
+      "pricing": {
+        "model": "Subscriptions per tool",
+        "color_tool": "$19/month",
+        "logo_tool": "$29/month",
+        "font_tool": "$14/month"
+      },
+      "metrics": {
+        "time_investment": "10-15h/week",
+        "total_users": "~420 across 3 apps"
+      },
+      "tech_stack": {
+        "ai_tools": ["Claude Code", "Cursor"]
+      },
+      "strategy": "Many small bets vs one big bet",
+      "status": "Active (side income)",
+      "source": "Vibe Code case study",
+      "verified": true,
+      "posted_on_twitter": {
+        "date": "2026-03-14",
+        "tweet_url": "https://twitter.com/itsaina207/status/2032763436703318022",
+        "thread_number": 8
+      }
+    },
+    {
+      "id": 8,
+      "name": "CodeSpring",
+      "tagline": "Vibe coding course + coaching",
+      "founder": "Lisa Thompson",
+      "twitter_handle": null,
+      "location": "Non spécifié",
+      "background": "Former teacher",
+      "problem_solved": "Apprendre le vibe coding à d'autres non-technical founders",
+      "revenue": {
+        "monthly_avg": "$25,000",
+        "arr": "$300,000"
+      },
+      "pricing": {
+        "core_course": "$497",
+        "templates_pack": "$97",
+        "coaching": "$500/hour"
+      },
+      "metrics": {
+        "students_per_month": 35,
+        "template_sales": 50,
+        "coaching_sessions": 6
+      },
+      "tech_stack": {
+        "learning_time": "3 months to learn vibe coding"
+      },
+      "strategy": "Teach what you just learned (selling the shovel)",
+      "status": "Active",
+      "source": "Vibe Code case study",
+      "verified": true,
+      "posted_on_twitter": {
+        "date": "2026-03-14",
+        "tweet_url": "https://twitter.com/itsaina207/status/2032763446652186801",
+        "thread_number": 9
+      }
+    },
+    {
+      "id": 9,
+      "name": "Solo Email SaaS",
+      "tagline": "Email automation tool",
+      "founder": "Anonymous",
+      "twitter_handle": null,
+      "location": "Non spécifié",
+      "background": "Non spécifié",
+      "problem_solved": "Automatisation email pour petites entreprises",
+      "revenue": {
+        "mrr": "$12,500",
+        "arr": "$150,000"
+      },
+      "pricing": {
+        "model": "SaaS Subscription"
+      },
+      "metrics": {
+        "time_to_10k": "8 mois"
+      },
+      "tech_stack": {
+        "frontend": "Lovable",
+        "backend": "Supabase",
+        "email": "Resend",
+        "ai": "OpenAI"
+      },
+      "costs": {
+        "build": "$400",
+        "monthly": "$150"
+      },
+      "strategy": "Lean + AI = profitable fast",
+      "status": "Active",
+      "source": "SWFTE case study",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "name": "Mike's LinkedIn Tool",
+      "tagline": "AI comments for LinkedIn/X",
+      "founder": "Mike Strives",
+      "twitter_handle": null,
+      "location": "Non spécifié",
+      "background": "Non spécifié",
+      "problem_solved": "Générer des commentaires AI pour CEOs sur LinkedIn et X",
+      "revenue": {
+        "mrr": "€7,000",
+        "arr": "€84,000 (~$91,000)"
+      },
+      "pricing": {
+        "model": "SaaS",
+        "target": "Busy CEOs + their PA/VA"
+      },
+      "metrics": {
+        "time_to_7k": "30 jours"
+      },
+      "tech_stack": {
+        "ai_tool": "Cursor"
+      },
+      "strategy": "B2B tool for executives",
+      "status": "Active",
+      "source": "New Economies",
+      "verified": true,
+      "posted_on_twitter": {
+        "date": "2026-03-14",
+        "tweet_url": "https://twitter.com/itsaina207/status/2032763456538161247",
+        "thread_number": 10
+      }
+    },
+    {
+      "id": 11,
+      "name": "AutoAIReels",
+      "tagline": "AI video generation tool",
+      "founder": "Divyanshu Negi",
+      "twitter_handle": "@divyanshunegi",
+      "location": "Non spécifié",
+      "background": "Indie hacker building in public",
+      "problem_solved": "Génération automatique de vidéos reels avec AI",
+      "revenue": {
+        "mrr": "En cours ($1K MRR target)",
+        "status": "Building in public"
+      },
+      "pricing": {
+        "model": "SaaS Subscription"
+      },
+      "metrics": {
+        "youtube_subscribers": "5,090",
+        "building_in_public": true
+      },
+      "tech_stack": {
+        "ai_tool": "Cursor",
+        "version": "Cursor 0.46.2"
+      },
+      "strategy": "Build in public + YouTube content",
+      "status": "Active development",
+      "source": "YouTube - Divyanshu AI",
+      "verified": true,
+      "posted_on_twitter": null
+    },
+    {
+      "id": 12,
+      "name": "Mindaugas Petrutis Project",
+      "tagline": "Micro-SaaS built with Lovable",
+      "founder": "Mindaugas Petrutis",
+      "twitter_handle": "@mindaugas",
+      "location": "Europe",
+      "background": "Non-technical founder, ex-entrepreneur",
+      "problem_solved": "Problème spécifique non divulgué",
+      "revenue": {
+        "total_revenue": "$7,000-$8,000",
+        "stripe_notifications": "$50 x plusieurs fois/semaine"
+      },
+      "pricing": {
+        "model": "Micro-paiements",
+        "price": "$50"
+      },
+      "metrics": {
+        "time_to_first_customer": "4 days",
+        "time_to_build": "1 week"
+      },
+      "tech_stack": {
+        "ai_tool": "Lovable",
+        "payment": "Stripe"
+      },
+      "strategy": "Building while drinking coffee over breakfast",
+      "status": "Active",
+      "source": "AI Giants Podcast - Lovable",
+      "verified": true,
+      "posted_on_twitter": null
+    },
+    {
+      "id": 13,
+      "name": "Emergent.sh",
+      "tagline": "Autonomous coding agent platform",
+      "founder": "Mukund Jha & Madhav Jha",
+      "twitter_handle": null,
+      "location": "Non spécifié",
+      "background": "Ex-Google, Amazon SageMaker, Dunzo",
+      "problem_solved": "Plateforme de coding multi-agents AI",
+      "revenue": {
+        "arr": "$50M",
+        "time_to_50m": "7 mois"
+      },
+      "pricing": {
+        "model": "SaaS + Enterprise"
+      },
+      "metrics": {
+        "users": "5M+",
+        "countries": "190+"
+      },
+      "tech_stack": {
+        "ai_tool": "Multi-agent system"
+      },
+      "strategy": "AI writes code, humans direct vision",
+      "status": "Active + Funded",
+      "source": "Superframeworks",
+      "verified": true,
+      "posted_on_twitter": null
+    },
+    {
+      "id": 14,
+      "name": "Airweave",
+      "tagline": "AI-powered platform (category not specified)",
+      "founder": "Non divulgué",
+      "twitter_handle": null,
+      "location": "Non spécifié",
+      "background": "Non spécifié",
+      "problem_solved": "Problème spécifique après prototype Lovable",
+      "revenue": {
+        "monthly": "$17,000"
+      },
+      "funding": {
+        "raised": "$6M"
+      },
+      "pricing": {
+        "model": "SaaS"
+      },
+      "metrics": {
+        "time_to_17k": "Post-prototype"
+      },
+      "tech_stack": {
+        "ai_tool": "Lovable",
+        "prototype_built_with": "Lovable"
+      },
+      "strategy": "Prototype with Lovable → raise funding → scale",
+      "status": "Active + Funded",
+      "source": "Forbes via WebProNews",
+      "verified": true,
+      "posted_on_twitter": null
+    },
+    {
+      "id": 15,
+      "name": "Qconcursos",
+      "tagline": "Brazilian Ed-Tech platform",
+      "founder": "Brazilian Ed-Tech Team",
+      "twitter_handle": null,
+      "location": "Brazil",
+      "background": "Educational technology company",
+      "problem_solved": "Plateforme éducative pour concours/examens",
+      "revenue": {
+        "launch_weekend": "$3M"
+      },
+      "pricing": {
+        "model": "Ed-Tech subscriptions"
+      },
+      "metrics": {
+        "time_to_3m": "48 heures"
+      },
+      "tech_stack": {
+        "ai_tool": "Lovable"
+      },
+      "strategy": "Launch rapide avec Lovable",
+      "status": "Active",
+      "source": "Lovable Blog",
+      "verified": true,
+      "posted_on_twitter": null
+    },
+    {
+      "id": 16,
+      "name": "One Love Foundation",
+      "tagline": "Fundraising website",
+      "founder": "One Love Foundation Team",
+      "twitter_handle": null,
+      "location": "Non spécifié",
+      "background": "Non-profit organization",
+      "problem_solved": "Levée de fonds pour cause sociale",
+      "revenue": {
+        "raised": "$150,000",
+        "target_exceeded": "50%"
+      },
+      "metrics": {
+        "monthly_donors": "200+",
+        "target_exceeded_by": "50%"
+      },
+      "tech_stack": {
+        "ai_tool": "Lovable.dev"
+      },
+      "strategy": "Non-profit fundraising with AI-built site",
+      "status": "Completed",
+      "source": "Design Monks case study",
+      "verified": true,
+      "posted_on_twitter": null
+    },
+    {
+      "id": 17,
+      "name": "PrintPigeon",
+      "tagline": "Print-on-demand SaaS",
+      "founder": "Yannis",
+      "twitter_handle": null,
+      "location": "Non spécifié",
+      "background": "Zero coding experience",
+      "problem_solved": "Print-on-demand pour e-commerce",
+      "revenue": {
+        "status": "Revenue generating"
+      },
+      "metrics": {
+        "time_to_build": "3 days",
+        "time_to_paying_customers": "3 days"
+      },
+      "tech_stack": {
+        "ai_tool": "Lovable"
+      },
+      "strategy": "Zero code to SaaS in 3 days",
+      "status": "Active",
+      "source": "Indie Hackers",
+      "verified": true,
+      "posted_on_twitter": null
+    },
+    {
+      "id": 18,
+      "name": "Flightcast",
+      "tagline": "Video-first podcast hosting",
+      "founder": "Rox Codes",
+      "twitter_handle": null,
+      "location": "Non spécifié",
+      "background": "Ex-Twitch streamer, ex-MrBeast team",
+      "problem_solved": "Hébergement de podcasts vidéo",
+      "revenue": {
+        "mrr": "$10,000+",
+        "status": "5-figure MRR, higher than first success",
+        "first_success_exit": "ThumbnailTest sold at 5-figure MRR"
+      },
+      "pricing": {
+        "model": "SaaS + Ad revenue share"
+      },
+      "metrics": {
+        "time_to_launch": "Oct 2025",
+        "partnership": "Steven Bartlett (The Diary of a CEO)"
+      },
+      "tech_stack": {
+        "ai_tool": "Non spécifié"
+      },
+      "strategy": "Video-first podcast hosting for creators",
+      "status": "Active",
+      "source": "Indie Hackers",
+      "verified": true,
+      "posted_on_twitter": null
+    },
+    {
+      "id": 19,
+      "name": "TrustMRR",
+      "tagline": "Verified startup revenue directory",
+      "founder": "Marc Lou",
+      "twitter_handle": "@marc_louvion",
+      "location": "Non spécifié",
+      "background": "Creator of ShipFast",
+      "problem_solved": "Vérification des revenus des startups (fake MRR screenshots)",
+      "revenue": {
+        "mrr_24h": "$8,586",
+        "mrr_48h": "$13,883",
+        "business_model": "Sponsorships + ads for verified founders"
+      },
+      "pricing": {
+        "model": "Directory + Sponsorships"
+      },
+      "metrics": {
+        "verified_startups_48h": "100+",
+        "time_to_build": "24 hours",
+        "launch_timing": "48h after Pieter Levels tweet"
+      },
+      "tech_stack": {
+        "boilerplate": "ShipFast (Next.js)",
+        "unique_feature": "Stripe API verification (read-only key)"
+      },
+      "strategy": "Launch into trending conversation + solve pain point",
+      "status": "Active",
+      "source": "Indie Radar",
+      "verified": true,
+      "posted_on_twitter": null
+    },
+    {
+      "id": 20,
+      "name": "AI Invoice Generator",
+      "tagline": "AI-powered invoice tool for freelancers",
+      "founder": "Non spécifié",
+      "twitter_handle": null,
+      "location": "Non spécifié",
+      "background": "Solo founder",
+      "problem_solved": "Génération de factures pour freelances avec extraction de données",
+      "revenue": {
+        "status": "Example project"
+      },
+      "pricing": {
+        "model": "SaaS Subscription",
+        "tiers": "Starter $9-19, Pro $29-49, Business $79-149"
+      },
+      "metrics": {
+        "deploy_time": "12 hours (1.5 days)",
+        "maintenance": "2 hours/week until $10K MRR"
+      },
+      "tech_stack": {
+        "frontend": "Next.js 14 (App Router)",
+        "database": "Supabase",
+        "auth": "Clerk",
+        "ai": "OpenAI GPT-4o",
+        "payments": "Stripe",
+        "email": "Resend",
+        "storage": "Cloudflare R2",
+        "analytics": "PostHog",
+        "hosting": "Railway",
+        "cost_pre_revenue": "$55/month",
+        "cost_at_5k_mrr": "$187/month"
+      },
+      "strategy": "Micro-SaaS vertical pour freelances",
+      "status": "Example/template",
+      "source": "F3Fundit guide",
+      "verified": false,
+      "posted_on_twitter": null
+    }
+  ],
+  
+  "summary_stats": {
+    "total_projects": 20,
+    "posted_on_twitter": 10,
+    "not_posted": 10,
+    "most_used_tools": ["Cursor", "Lovable", "Claude"],
+    "success_rate_pattern": "Clone existing + niche pivot OR solve own problem"
+  },
+  
+  "weekly_update_checklist": {
+    "search_queries": [
+      "vibe coding success story $10K MRR",
+      "Cursor/Lovable project revenue",
+      "AI built app income indie hacker",
+      "non-technical founder AI success"
+    ],
+    "data_to_collect": [
+      "Project name",
+      "Founder name + Twitter handle",
+      "MRR/ARR",
+      "Pricing model",
+      "Problem solved",
+      "Tech stack",
+      "Time to launch",
+      "Source URL"
+    ]
+  }
+}

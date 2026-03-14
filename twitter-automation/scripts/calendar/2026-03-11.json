@@ -15,25 +15,25 @@
     },
     {
       "time": "12:00",
-      "text": "CBDC retail vs wholesale:\n\n• Wholesale: Banks only (faster settlement)\n• Retail: Everyone (complex, political)\n\nMost countries doing wholesale first.\nRetail CBDCs are hard. Really hard.",
+      "text": "CBDC retail vs wholesale:\n\n- Wholesale: Banks only (faster settlement)\n- Retail: Everyone (complex, political)\n\nMost countries doing wholesale first.\nRetail CBDCs are hard. Really hard.",
       "theme": "CBDC",
       "sent": true
     },
     {
       "time": "14:00",
-      "text": "Smart contracts are 'trustless' - but:\n\n• Code can have bugs\n• Oracles can be manipulated\n• Admin keys can be compromised\n\nTrustless doesn't mean riskless. It means different risks.",
+      "text": "Smart contracts are 'trustless' - but:\n\n- Code can have bugs\n- Oracles can be manipulated\n- Admin keys can be compromised\n\nTrustless doesn't mean riskless. It means different risks.",
       "theme": "DeFi",
       "sent": true
     },
     {
       "time": "16:00",
-      "text": "DAOs in practice:\n\n• Promise: Decentralized governance\n• Reality: Low voter turnout\n• Reality: Whales dominate votes\n• Reality: Most proposals technical/boring\n\nGovernance is hard. Decentralized governance is harder.",
+      "text": "DAOs in practice:\n\n- Promise: Decentralized governance\n- Reality: Low voter turnout\n- Reality: Whales dominate votes\n- Reality: Most proposals technical/boring\n\nGovernance is hard. Decentralized governance is harder.",
       "theme": "Web3",
       "sent": true
     },
     {
       "time": "18:00",
-      "text": "Bitcoin halving April 2024:\n\n• Block reward: 6.25 → 3.125 BTC\n• New supply: ~900 → ~450 BTC/day\n• Historical: Price often rises post-halving\n• Mechanism: Reduced selling pressure\n\nSupply mechanics matter.",
+      "text": "Bitcoin halving April 2024:\n\n- Block reward: 6.25 → 3.125 BTC\n- New supply: ~900 → ~450 BTC/day\n- Historical: Price often rises post-halving\n- Mechanism: Reduced selling pressure\n\nSupply mechanics matter.",
       "theme": "Crypto Macro",
       "sent": true
     },
@@ -57,7 +57,7 @@
     },
     {
       "time": "23:00",
-      "text": "Brazil's Drex (CBDC):\n\n• Launch: 2024 pilot\n• Unique feature: Programmable money\n• Use case: Conditional payments\n• Innovation: Smart contracts on CBDC\n\nPushing boundaries beyond simple payments.",
+      "text": "Brazil's Drex (CBDC):\n\n- Launch: 2024 pilot\n- Unique feature: Programmable money\n- Use case: Conditional payments\n- Innovation: Smart contracts on CBDC\n\nPushing boundaries beyond simple payments.",
       "theme": "CBDC",
       "sent": false
     }

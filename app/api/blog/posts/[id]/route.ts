@@ -1,4 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
+
+export const dynamic = 'force-dynamic';
 import { storage } from '@/lib/storage';
 import { insertBlogPostSchema } from '@shared/schema';
 import { z } from 'zod';

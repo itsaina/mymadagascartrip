@@ -8,6 +8,7 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 
 **Username:** @itsaina  
 **Token:** `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`  
+**SSH Key:** Configured at `~/.ssh/id_ed25519` (fingerprint: `SHA256:yLzKZZWbqwiiYJo9BmiVyoZ6r4SEDabK81AsAfG4pXM`)  
 **Scope:** repo (private + public)  
 
 ### Configuration
@@ -58,6 +59,14 @@ curl -s -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/user/repo
 ## Railway - Déploiement Cloud
 
 **API Token:** `fd072d28-099f-405f-a2eb-beaa52dd63b7`
+
+📚 **Skill complet:** `/root/.openclaw/workspace/SKILL_RAILWAY.md`
+
+### 🔐 SSH GitHub (déjà configuré)
+
+**Clé:** `~/.ssh/id_ed25519`  
+**Empreinte:** `SHA256:yLzKZZWbqwiiYJo9BmiVyoZ6r4SEDabK81AsAfG4pXM`  
+**Test:** `ssh -T git@github.com`
 
 ### API GraphQL
 

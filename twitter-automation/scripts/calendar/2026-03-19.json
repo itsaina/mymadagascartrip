@@ -66,6 +66,12 @@
       "text": "🔥 Product Spotlight:\\n\\nSupabase (@supabase) - Firebase alternative that's actually PostgreSQL. Open source, powerful.\\n\\nWhat tools are you using that just *work*?",
       "theme": "VibeCodes",
       "sent": false
+    },
+    {
+      "time": "11:00",
+      "text": "📱 App Spotlight:\\n\\nLoom (@loom) - Async video messaging. Explain things once, share everywhere. Essential for remote teams.\\n\\nWhat SaaS can't you live without?",
+      "theme": "SaaS_VibeCodes",
+      "sent": false
     }
   ]
 }

@@ -66,6 +66,12 @@
       "text": "🔥 Product Spotlight:\\n\\nRailway (@Railway) - Infrastructure without the headache. Deploy from Git in minutes.\\n\\nWhat tools are you using that just *work*?",
       "theme": "VibeCodes",
       "sent": false
+    },
+    {
+      "time": "11:00",
+      "text": "📱 App Spotlight:\\n\\nStripe (@stripe) - Payments infrastructure that just works. The gold standard for developer experience.\\n\\nWhat SaaS can't you live without?",
+      "theme": "SaaS_VibeCodes",
+      "sent": false
     }
   ]
 }

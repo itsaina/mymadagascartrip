@@ -66,6 +66,12 @@
       "text": "🔥 Product Spotlight:\\n\\nLinear (@linear) - Issue tracking that doesn't suck. Fast, keyboard-first, delightful.\\n\\nWhat tools are you using that just *work*?",
       "theme": "VibeCodes",
       "sent": false
+    },
+    {
+      "time": "11:00",
+      "text": "📱 App Spotlight:\\n\\nPitch (@pitch) - Presentations reimagined. Real-time collaboration meets beautiful design. PowerPoint killer.\\n\\nWhat SaaS can't you live without?",
+      "theme": "SaaS_VibeCodes",
+      "sent": false
     }
   ]
 }

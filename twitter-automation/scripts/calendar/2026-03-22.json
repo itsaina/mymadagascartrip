@@ -66,6 +66,12 @@
       "text": "🔥 Product Spotlight:\\n\\nResend (@resend) - Email for developers. Simple API, beautiful templates.\\n\\nWhat tools are you using that just *work*?",
       "theme": "VibeCodes",
       "sent": false
+    },
+    {
+      "time": "11:00",
+      "text": "📱 App Spotlight:\\n\\nRaycast (@raycast) - Spotlight replacement for power users. Extensions, scripts, workflows. macOS essential.\\n\\nWhat SaaS can't you live without?",
+      "theme": "SaaS_VibeCodes",
+      "sent": false
     }
   ]
 }

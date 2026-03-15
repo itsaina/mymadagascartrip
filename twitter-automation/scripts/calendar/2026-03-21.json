@@ -66,6 +66,12 @@
       "text": "🔥 Product Spotlight:\\n\\nshadcn/ui (@shadcn) - Copy-paste components that look amazing. The new standard for React UI.\\n\\nWhat tools are you using that just *work*?",
       "theme": "VibeCodes",
       "sent": false
+    },
+    {
+      "time": "11:00",
+      "text": "📱 App Spotlight:\\n\\nZapier (@zapier) - Connect your apps and automate workflows. The glue of the internet.\\n\\nWhat SaaS can't you live without?",
+      "theme": "SaaS_VibeCodes",
+      "sent": false
     }
   ]
 }

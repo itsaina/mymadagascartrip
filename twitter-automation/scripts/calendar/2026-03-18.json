@@ -66,6 +66,12 @@
       "text": "🔥 Product Spotlight:\\n\\nVercel (@vercel) - Deploy in seconds, scale automatically. The gold standard for frontend hosting.\\n\\nWhat tools are you using that just *work*?",
       "theme": "VibeCodes",
       "sent": false
+    },
+    {
+      "time": "11:00",
+      "text": "📱 App Spotlight:\\n\\nFigma (@figma) - Design tool that runs in the browser. Real-time collaboration changed the game.\\n\\nWhat SaaS can't you live without?",
+      "theme": "SaaS_VibeCodes",
+      "sent": false
     }
   ]
 }

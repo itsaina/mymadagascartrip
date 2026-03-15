@@ -66,6 +66,12 @@
       "text": "🔥 Product Spotlight:\\n\\nCursor (@cursor_so) - AI code editor that's replacing VS Code for many devs. The future of coding is conversational.\\n\\nWhat tools are you using that just *work*?",
       "theme": "VibeCodes",
       "sent": false
+    },
+    {
+      "time": "11:00",
+      "text": "📱 App Spotlight:\\n\\nNotion (@NotionHQ) - The all-in-one workspace. Notes, docs, databases, wikis. Changed how teams collaborate.\\n\\nWhat SaaS can't you live without?",
+      "theme": "SaaS_VibeCodes",
+      "sent": false
     }
   ]
 }

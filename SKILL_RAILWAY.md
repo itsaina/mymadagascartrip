@@ -157,10 +157,11 @@ echo "Deploy ID: $DEPLOY"
 
 ## Project IDs Reference
 
-| Project | ID | URL | Status |
-|---------|-----|-----|--------|
-| algoseo | `cb74bf85-77c4-4ec4-b155-48ebd5b9051b` | - | Active |
-| formation-ia-appliquee | `a18e1210-0f7f-4444-ab59-2805604b2528` | - | - |
+| Projet | ID | Statut |
+|---------|-----|--------|
+| algoseo | `cb74bf85-77c4-4ec4-b155-48ebd5b9051b` | Active |
+| cbdc-ressources | `ad17a3dd-3bf2-41f5-a659-9ca854a525dc` | Active |
+| formation-ia-appliquee | `a18e1210-0f7f-4444-ab59-2805604b2528` | Active |
 
 ## Links
 

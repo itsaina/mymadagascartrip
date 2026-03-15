@@ -157,11 +157,10 @@ echo "Deploy ID: $DEPLOY"
 
 ## Project IDs Reference
 
-| Project | ID | URL |
-|---------|-----|-----|
-| algoseo | `cb74bf85-77c4-4ec4-b155-48ebd5b9051b` | - |
-| formation-ia-appliquee | `a18e1210-0f7f-4444-ab59-2805604b2528` | - |
-| mymadagascartrip | `a4b92d27-8bdc-4b45-a1ee-fe936d1ee406` | https://mymadagascartrip-web-mymadagascartrip.up.railway.app |
+| Project | ID | URL | Status |
+|---------|-----|-----|--------|
+| algoseo | `cb74bf85-77c4-4ec4-b155-48ebd5b9051b` | - | Active |
+| formation-ia-appliquee | `a18e1210-0f7f-4444-ab59-2805604b2528` | - | - |
 
 ## Links
 

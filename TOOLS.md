@@ -617,12 +617,13 @@ openclaw browser open https://itsaina.com
 
 ### Workspace projects
 
-| Projet | Chemin | URL déployée |
-|--------|--------|--------------|
-| raphia-bag | `/workspace/raphia-bag/` | https://raphia-web-production.up.railway.app |
-| cv-aina | `/workspace/cv-aina/` | https://cv-web-production.up.railway.app |
-| twitter-automation | `/workspace/twitter-automation/` | - |
-| mymadagascartrip | `/root/.openclaw/workspace/mymadagascartrip/` | https://mymadagascartrip-web-mymadagascartrip.up.railway.app |
+| Projet | Chemin | URL déployée | Statut |
+|--------|--------|--------------|--------|
+| raphia-bag | `/workspace/raphia-bag/` | https://raphia-web-production.up.railway.app | ✅ |
+| cv-aina | `/workspace/cv-aina/` | https://cv-web-production.up.railway.app | ✅ |
+| twitter-automation | `/workspace/twitter-automation/` | - | - |
+| mymadagascartrip | `/root/.openclaw/workspace/mymadagascartrip/` | - | ❌ Supprimé (problèmes de build) |
+| mymadagascartrip-v2 | `/root/.openclaw/workspace/mymadagascartrip-v2/` | - | ❌ Supprimé (problèmes de build) |
 
 ---
 

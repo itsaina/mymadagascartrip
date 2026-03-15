@@ -60,6 +60,12 @@
       "text": "🎯 Weekend reading list:\n\n1. Bitcoin Whitepaper (re-read it)\n2. Ethereum documentation\n3. Your favorite project's roadmap\n4. DeFi protocol docs\n\nKnowledge compounds like interest.",
       "theme": "Web3",
       "sent": false
+    },
+    {
+      "time": "09:00",
+      "text": "🔥 Product Spotlight:\\n\\nshadcn/ui (@shadcn) - Copy-paste components that look amazing. The new standard for React UI.\\n\\nWhat tools are you using that just *work*?",
+      "theme": "VibeCodes",
+      "sent": false
     }
   ]
 }

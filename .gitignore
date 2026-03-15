@@ -3,4 +3,6 @@ dist
 .DS_Store
 server/public
 vite.config.ts.*
-*.tar.gztsconfig.tsbuildinfo
+*.tar.gz
+tsconfig.tsbuildinfo
+.next

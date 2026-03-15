@@ -1,0 +1,65 @@
+{
+  "date": "2026-03-23",
+  "tweets": [
+    {
+      "time": "08:00",
+      "text": "🚀 Crypto market update:\n\nBitcoin consolidating above $67K. ETF inflows continue. Altcoin season brewing? Watch for breakouts in:\n- Layer 2s\n- DeFi blue chips\n- AI tokens\n\nPatience pays.",
+      "theme": "Crypto Macro",
+      "sent": false
+    },
+    {
+      "time": "10:00",
+      "text": "🏦 CBDC development pipeline:\n\n• China: 260M+ wallets, $250B+ transactions\n• India: Digital rupee pilot expanding\n• Brazil: Drex CBDC launching 2024\n• Europe: Digital euro preparation phase\n\nThe race is accelerating.",
+      "theme": "CBDC",
+      "sent": false
+    },
+    {
+      "time": "12:00",
+      "text": "💡 DeFi yield strategies (educational):\n\nTraditional: 4-5% APY (banks)\nDeFi lending: 6-12% APY\nLiquidity mining: 15-40% APY\n\nRisks:\n- Smart contract bugs\n- Impermanent loss\n- Token volatility\n\nDYOR always.",
+      "theme": "DeFi",
+      "sent": false
+    },
+    {
+      "time": "14:00",
+      "text": "🌐 Web3 infrastructure 2026:\n\n1. AI + Blockchain integration\n2. Zero-knowledge proofs mainstream\n3. Modular blockchain architecture\n4. Account abstraction (ERC-4337)\n5. Cross-chain interoperability\n\nThe stack is maturing.",
+      "theme": "Web3",
+      "sent": false
+    },
+    {
+      "time": "16:00",
+      "text": "💰 Stablecoin market insights:\n\n• USDT: $100B+ market cap dominance\n• USDC: Regulated, institutional favorite\n• DAI: Decentralized, overcollateralized\n• PYUSD: PayPal's entry\n\nTotal market: $150B+ and growing.",
+      "theme": "Stablecoins",
+      "sent": false
+    },
+    {
+      "time": "18:00",
+      "text": "📈 Product growth frameworks:\n\nAARRR:\n- Acquisition (SEO/ads)\n- Activation (onboarding)\n- Retention (engagement)\n- Referral (virality)\n- Revenue (monetization)\n\nMeasure each. Optimize bottlenecks.",
+      "theme": "Viral Growth",
+      "sent": false
+    },
+    {
+      "time": "20:00",
+      "text": "🔒 Crypto security essentials:\n\n✓ Hardware wallet for >$1K holdings\n✓ 2FA on all exchanges\n✓ Never share seed phrases\n✓ Verify contract addresses\n✓ Use multisig for treasuries\n\nSecurity is not optional.",
+      "theme": "Crypto Macro",
+      "sent": false
+    },
+    {
+      "time": "21:00",
+      "text": "🌍 Emerging markets crypto adoption:\n\n• Nigeria: 35% crypto ownership\n• Vietnam: 21% adoption rate\n• Turkey: Inflation hedge\n• Argentina: Peso devaluation protection\n\nReal utility drives real adoption.",
+      "theme": "Crypto Macro",
+      "sent": false
+    },
+    {
+      "time": "22:00",
+      "text": "🏛️ Regulatory landscape update:\n\n• US: Spot ETFs approved, clarity coming\n• EU: MiCA framework implementation\n• UK: Regulatory sandbox expansion\n• Asia: Mixed but evolving\n\nRegulation = Mainstream adoption.",
+      "theme": "CBDC",
+      "sent": false
+    },
+    {
+      "time": "23:00",
+      "text": "🎯 Weekend reading list:\n\n1. Bitcoin Whitepaper (re-read it)\n2. Ethereum documentation\n3. Your favorite project's roadmap\n4. DeFi protocol docs\n\nKnowledge compounds like interest.",
+      "theme": "Web3",
+      "sent": false
+    }
+  ]
+}

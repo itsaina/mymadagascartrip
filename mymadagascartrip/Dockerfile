@@ -10,12 +10,14 @@ RUN npm run build
 FROM node:20-alpine
 WORKDIR /app
 ENV NODE_ENV=production
-ENV PORT=5000
 
 # Copy built files
 COPY --from=builder /app/dist ./dist
 COPY --from=builder /app/node_modules ./node_modules
-COPY package*.json ./
+COPY --from=builder /app/package*.json ./
 
+# Use Railway's PORT or default to 5000
+ENV PORT=5000
 EXPOSE 5000
+
 CMD ["node", "dist/index.js"]

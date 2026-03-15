@@ -1,9 +1,12 @@
 node_modules
-.cache
+.next
 .git
-.pythonlibs
 .cache
+.pythonlibs
 *.log
 .DS_Store
 .vscode
 .idea
+tsconfig.tsbuildinfo
+migrations
+README.md

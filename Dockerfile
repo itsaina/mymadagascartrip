@@ -1,24 +1,24 @@
-FROM node:20-alpine
+FROM node:20-alpine AS deps
 WORKDIR /app
-
-# Copy package files
 COPY package*.json ./
+RUN npm ci
 
-# Install dependencies
-RUN npm ci --only=production
-
-# Copy source code
+FROM node:20-alpine AS builder
+WORKDIR /app
+COPY --from=deps /app/node_modules ./node_modules
 COPY . .
-
-# Build the application
-RUN npm run build || echo "Build may have errors but continuing"
-
-# Expose port
-EXPOSE 5000
-
-# Set environment
 ENV NODE_ENV=production
-ENV PORT=5000
+RUN npm run build
 
-# Start the application
-CMD ["npm", "start"]
+FROM node:20-alpine AS runner
+WORKDIR /app
+ENV NODE_ENV=production
+ENV PORT=3000
+
+COPY --from=builder /app/public ./public
+COPY --from=builder /app/.next/standalone ./
+COPY --from=builder /app/.next/static ./.next/static
+
+EXPOSE 3000
+
+CMD ["node", "server.js"]

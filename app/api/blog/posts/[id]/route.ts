@@ -3,9 +3,10 @@ import { storage } from '@/lib/storage';
 import { insertBlogPostSchema } from '@shared/schema';
 import { z } from 'zod';
 
-export async function GET(_request: NextRequest, { params }: { params: { id: string } }) {
+export async function GET(_request: NextRequest, { params }: { params: Promise<{ id: string }> }) {
   try {
-    const id = parseInt(params.id);
+    const { id: rawId } = await params;
+    const id = parseInt(rawId);
     if (isNaN(id)) {
       return NextResponse.json({ error: 'Invalid post ID' }, { status: 400 });
     }
@@ -19,9 +20,10 @@ export async function GET(_request: NextRequest, { params }: { params: { id: str
   }
 }
 
-export async function PUT(request: NextRequest, { params }: { params: { id: string } }) {
+export async function PUT(request: NextRequest, { params }: { params: Promise<{ id: string }> }) {
   try {
-    const id = parseInt(params.id);
+    const { id: rawId } = await params;
+    const id = parseInt(rawId);
     if (isNaN(id)) {
       return NextResponse.json({ error: 'Invalid post ID' }, { status: 400 });
     }
@@ -40,9 +42,10 @@ export async function PUT(request: NextRequest, { params }: { params: { id: stri
   }
 }
 
-export async function DELETE(_request: NextRequest, { params }: { params: { id: string } }) {
+export async function DELETE(_request: NextRequest, { params }: { params: Promise<{ id: string }> }) {
   try {
-    const id = parseInt(params.id);
+    const { id: rawId } = await params;
+    const id = parseInt(rawId);
     if (isNaN(id)) {
       return NextResponse.json({ error: 'Invalid post ID' }, { status: 400 });
     }

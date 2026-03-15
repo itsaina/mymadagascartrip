@@ -1,9 +1,10 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { storage } from '@/lib/storage';
 
-export async function GET(_request: NextRequest, { params }: { params: { slug: string } }) {
+export async function GET(_request: NextRequest, { params }: { params: Promise<{ slug: string }> }) {
   try {
-    const post = await storage.getBlogPostBySlug(params.slug);
+    const { slug } = await params;
+    const post = await storage.getBlogPostBySlug(slug);
     if (!post) {
       return NextResponse.json({ error: 'Post not found' }, { status: 404 });
     }

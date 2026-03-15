@@ -57,6 +57,68 @@ curl -s -H "Authorization: token $GITHUB_TOKEN" https://api.github.com/user/repo
 
 ## Railway - Déploiement Cloud
 
+**API Token:** `fd072d28-099f-405f-a2eb-beaa52dd63b7`
+
+### API GraphQL
+
+**Endpoint:** `https://backboard.railway.com/graphql/v2`
+
+**Headers:**
+```
+Authorization: Bearer fd072d28-099f-405f-a2eb-beaa52dd63b7
+Content-Type: application/json
+```
+
+### Mutations clés
+
+**Créer un projet:**
+```bash
+curl -X POST https://backboard.railway.com/graphql/v2 \
+  -H "Authorization: Bearer $RAILWAY_API_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"query": "mutation { projectCreate(input: { name: \"project-name\" }) { id } }"}'
+```
+
+**Créer un service avec GitHub:**
+```bash
+curl -X POST https://backboard.railway.com/graphql/v2 \
+  -H "Authorization: Bearer $RAILWAY_API_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "query": "mutation { serviceCreate(input: { projectId: \"project-id\", name: \"service-name\", source: { repo: \"username/repo\" } }) { id name } }"
+  }'
+```
+
+**Déployer un service:**
+```bash
+curl -X POST https://backboard.railway.com/graphql/v2 \
+  -H "Authorization: Bearer $RAILWAY_API_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "query": "mutation { serviceInstanceDeployV2(serviceId: \"service-id\", environmentId: \"env-id\") }"
+  }'
+```
+
+**Lister les projets:**
+```bash
+curl -X POST https://backboard.railway.com/graphql/v2 \
+  -H "Authorization: Bearer $RAILWAY_API_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"query": "query { projects { edges { node { id name } } } }"}'
+```
+
+### Limitations API
+
+⚠️ **Important:** Le token API ne peut pas déployer depuis GitHub sans autorisation OAuth préalable via l'interface web.
+
+### Documentation complète
+- Fichier: `/root/.openclaw/workspace/RAILWAY_API.md`
+- Docs officielles: https://docs.railway.com/integrations/api
+
+---
+
+## Railway - Déploiement Cloud
+
 **CLI Connecté :** ✅ Aina R (aina.fournier@gmail.com)  
 **Version CLI :** 4.31.0
 
@@ -551,6 +613,7 @@ openclaw browser open https://itsaina.com
 | raphia-bag | `/workspace/raphia-bag/` | https://raphia-web-production.up.railway.app |
 | cv-aina | `/workspace/cv-aina/` | https://cv-web-production.up.railway.app |
 | twitter-automation | `/workspace/twitter-automation/` | - |
+| mymadagascartrip | `/root/.openclaw/workspace/mymadagascartrip/` | https://mymadagascartrip-web-mymadagascartrip.up.railway.app |
 
 ---
 

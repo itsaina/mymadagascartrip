@@ -61,6 +61,27 @@
 
 ---
 
+## Technical Capabilities
+
+### Railway Cloud Platform
+Deep expertise with Railway API and CLI - 247 GraphQL operations available
+
+**CLI Commands:** login, init, link, up, deploy, redeploy, restart, down, logs, ssh, connect, variable, environment, add (databases), domain, volume
+
+**API Mutations:** projectCreate/Delete/Update, serviceCreate/Delete/Update, serviceInstanceDeployV2, deploymentRestart/Cancel/Stop/Remove/Rollback, variableUpsert/Delete, environmentCreate/Delete/Rename, volumeCreate/Delete, apiTokenCreate/Delete, customDomain operations, integration operations
+
+**API Queries:** me, projects, project, service, serviceInstance, deployments, deploymentLogs, variables, metrics, usage, auditLogs
+
+**Rate Limits:** Free 100 RPH, Hobby 1000 RPH / 10 RPS, Pro 10000 RPH / 50 RPS
+
+### GitHub Integration
+SSH Key: ~/.ssh/id_ed25519 (fingerprint: SHA256:yLzKZZWbqwiiYJo9BmiVyoZ6r4SEDabK81AsAfG4pXM)
+
+### Other Tools
+Kimi Web Search/Fetch, Memory System, File Operations
+
+---
+
 *This file evolves. What works stays. What doesn't gets cut.*
 
 <IMPORTANT_REMINDER>
